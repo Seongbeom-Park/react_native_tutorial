@@ -1,0 +1,11 @@
+{
+  "name": "react_native_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Seongbeom-Park/react_native_tutorial.git",
+  "author": "seongbeom_park <seongbeom_park@tmax.co.kr>",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.63.3"
+  }
+}
