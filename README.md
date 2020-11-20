@@ -11,6 +11,7 @@ $ yarn react-native init {sub-project-name}
 ## Build sub-project
 ```
 $ cd {sub-project-name}
+{sub-project-name}$ yarn install
 {sub-project-name}$ yarn start
 {sub-project-name}$ yarn android
 ```
