@@ -5,11 +5,12 @@
 
 ## Create a sub-project
 ```
-$ yarn react-native init {sub-project name}
+$ yarn react-native init {sub-project-name}
 ```
 
 ## Build sub-project
 ```
-$ yarn start
-$ yarn android
+$ cd {sub-project-name}
+{sub-project-name}$ yarn start
+{sub-project-name}$ yarn android
 ```
